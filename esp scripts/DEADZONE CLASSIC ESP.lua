@@ -1,9 +1,6 @@
 -- I publish the esp scripts I made for specific games in roblox for free, you can use the scripts in your own projects, but I would be very happy if you give credit.
 -- i made this script is specially made for deadzone classic game, i tried this script in other games and it works, you can use it in games other than deadzone.
--- github = @canbuba https://github.com/canbuba/Lua-ESP / discord = Brombeere8355
-
-setfflag("AbuseReportScreenshot", "False") -- this bypass for roblox's player report
-setfflag("AbuseReportScreenshotPercentage", "0")
+-- github = @canbuba https://github.com/canbuba/Lua-ESP
 
 local Players = game:GetService("Players") 
 local RunService = game:GetService("RunService")
