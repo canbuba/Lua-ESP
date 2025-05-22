@@ -1,10 +1,7 @@
 -- I publish the esp scripts I made for specific games in roblox for free, you can use the scripts in your own projects, but I would be very happy if you give credit.
 -- i made this script is specially made for state of anarchy game, finding the humanoidrootpart in players folder in workspace and drawing 2d esp on it,
 -- i would not recommend you to use it in other games, it probably won't work, but you can use the esp i wrote for deadzone its work almost all games and available on my github page
--- github = @canbuba https://github.com/canbuba/Lua-ESP / discord = Brombeere8355
-
-setfflag("AbuseReportScreenshot", "False") -- this bypass for roblox player report
-setfflag("AbuseReportScreenshotPercentage", "0")
+-- github = @canbuba https://github.com/canbuba/Lua-ESP
 
 local RunService = game:GetService("RunService")
 local camera = workspace.CurrentCamera
